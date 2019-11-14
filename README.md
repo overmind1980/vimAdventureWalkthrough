@@ -1,4 +1,3 @@
-
 this is the version
 Vim-Adventures简介（怕丢了，参考自博客地址见文末）
 
